@@ -13,7 +13,6 @@ namespace Web_api.Controllers
 
 
         [HttpPost]
-        // POST: 
         [Route("SignIn")]
         public HttpResponseMessage SignIn([FromBody]User user)
         {
@@ -37,7 +36,7 @@ namespace Web_api.Controllers
         public HttpResponseMessage GetList(string userName)
         {
             List<User> partnerList;
-            //?
+            
             lock (Db.UserList)
             {
                 partnerList = Db.UserList.Where(partner => partner.PartnerUserName == null && partner.UserName != userName).ToList();
