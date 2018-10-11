@@ -33,9 +33,7 @@ export class ChoosenComponent implements OnInit {
     this.userService.partnerUser = user;
     this.userService.choosePartner().subscribe(data => {
       this.router.navigate(['/partner']);
-    }, err => {
-      console.log(err.error);
-    });
+    }, err => {  });
   }
 
   ngOnInit() {

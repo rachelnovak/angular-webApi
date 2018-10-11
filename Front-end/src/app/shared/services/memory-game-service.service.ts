@@ -8,22 +8,33 @@ import { UserService } from './user-service.service';
   providedIn: 'root'
 })
 export class MemoryGameService {
-  
-  checkCard(listChosenCards: string[]): any {    
-    
-    return this.httpClient.put(this.URL + "/updateTurn/" + this.userService.currentUser.UserName,listChosenCards);
-  }
+
+  //-----------------PROPERTIES--------------------
+
   URL: string = "http://localhost:58141/api";
   currectTurnUser: string;
 
+  //----------------CONSTRACTOR-------------------
+
   constructor(private httpClient: HttpClient, private userService: UserService) { }
 
-/**
- * function
- * @param currentUser the player of the game
- * get the list of cards for starting game
- */
+  //------------------METHODS---------------------
+
+  /**
+   * function
+   * @param currentUser the player of the game
+   * get the list of cards for starting game
+   */
   getListOfCards(currentUser: User): Observable<any> {
     return this.httpClient.get(this.URL + "/getGame/" + currentUser.UserName);
+  }
+
+  /**
+   * function
+   * @param listChosenCards the choosen card
+   * check the choosen card
+   */
+  checkCard(listChosenCards: string[]): any {
+    return this.httpClient.put(this.URL + "/updateTurn/" + this.userService.currentUser.UserName, listChosenCards);
   }
 }

@@ -1,3 +1,4 @@
+
 import { Injectable } from '@angular/core';
 import { User } from '../models/user.model';
 import { HttpClient } from '@angular/common/http';
@@ -10,16 +11,20 @@ import { Router } from '@angular/router';
 export class UserService {
 
 
-  URL: string = "http://localhost:58141/api";
+  //-----------------PROPERTIES--------------------
 
+  URL: string = "http://localhost:58141/api";
   partnerUser: User;
   currentUser: User;
   listPartners: any;
   SubjectUser: Subject<any> = new Subject();
 
-  constructor(public httpClient: HttpClient, public router: Router) {
-  }
+  
+  //----------------CONSTRACTOR-------------------
 
+  constructor(public httpClient: HttpClient, public router: Router) { }
+  
+  //------------------METHODS---------------------
 
   /**
    * function
@@ -32,12 +37,11 @@ export class UserService {
       (res) => {
         this.currentUser = newUser;
         this.router.navigate(['/choosing']);
-      }, err => {
-        //"can't add register there is same user name"
-        alert(err.error.Message);
+      }, err => {//"cann't add register there is same user name"
+        alert(err["error"]["Message"]);
       }
     );
-
+    
     //get all the user details
     setInterval(() => {
       this.httpClient.get(this.URL + "/getUserDetails/" + this.currentUser.UserName).subscribe((data: User) => {
@@ -50,7 +54,7 @@ export class UserService {
       })
     }, 5000);
   }
-
+  
   /**
    * function
    * get all the users list 
@@ -59,13 +63,14 @@ export class UserService {
     this.httpClient.get(this.URL + "/getUsersWaitToPartner").subscribe(data => {
       this.listPartners = data;
       this.SubjectUser.next(this.listPartners);
+
     })
   }
 
-    /**
-   * function
-   * get all the partners list 
-   */
+  /**
+ * function
+ * get all the partners list 
+ */
   getListPartners() {
     this.getListOfUser();
     setInterval(() => {
@@ -74,9 +79,9 @@ export class UserService {
   }
 
   /**
-   * function
-   * send the choosen partner to the server for creating a new game
-   */
+ * function
+ * send the choosen partner to the server for creating a new game
+ */
   choosePartner(): Observable<any> {
     return this.httpClient.put(this.URL + "/ChoosingPartner/" + this.currentUser.UserName, this.partnerUser);
   }
