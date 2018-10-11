@@ -1,0 +1,30 @@
+<div class="text-center">
+    <header>
+        <h1>Matching Game</h1>
+    </header>
+    <p>currect player now {{NameNow}}</p>
+    <p>your counter</p>
+    <p>{{currentPartner.userName}} counter</p>
+    <!-- add the counter of the parner -->
+    <div id="board" class="col-md-offset-3 col-md-6">
+        <div id="memoryGame">
+            <section>
+                <div id="buttons">
+                    <div *ngFor="let card of listRandomCards">
+                        <button *ngIf='!card.value' (click)="clicked(card)" class="button" data-value="i">{{card.key}}</button>
+                        <button *ngIf='!card.value' (click)="clicked(card)" class="button" data-value="p">{{card.key}}</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<!-- <p>current player name:</p>
+<p>{{currentPlayer}}</p>
+<div *ngFor="let card of res.cards.keys()">
+  <button (click)="clicked(card)"><p *ngIf=!isClicked>?</p>
+    <p *ngIf=isClicked>{{card}}</p> </button>
+    <button (click)="clicked(card)"><p *ngIf=!isClicked>?</p>
+      <p *ngIf=isClicked>{{card}}</p> </button>
+</div>
+<p>the turn of</p>{{currentTurn}} -->
