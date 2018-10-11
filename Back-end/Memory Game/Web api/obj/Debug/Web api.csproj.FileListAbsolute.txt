@@ -1,0 +1,69 @@
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\Web api.dll.config
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\Web api.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\Web api.pdb
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\csc.exe
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\csc.exe.config
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\csc.rsp
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\csi.exe
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\csi.exe.config
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\csi.rsp
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.AppContext.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Collections.Immutable.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Console.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Diagnostics.Process.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.IO.Compression.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.IO.FileSystem.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.IO.Pipes.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Reflection.Metadata.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Security.AccessControl.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Security.Claims.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Security.Principal.Windows.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Threading.Thread.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.ValueTuple.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Xml.XmlDocument.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Xml.XPath.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\vbc.exe
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\vbc.exe.config
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\vbc.rsp
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\VBCSCompiler.exe
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\roslyn\VBCSCompiler.exe.config
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\Newtonsoft.Json.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Net.Http.Formatting.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Web.Http.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Web.Http.WebHost.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\Newtonsoft.Json.xml
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Net.Http.Formatting.xml
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Web.Http.xml
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Web.Http.WebHost.xml
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\obj\Debug\Web api.csprojAssemblyReference.cache
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\obj\Debug\Web api.csproj.CoreCompileInputs.cache
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\obj\Debug\Web api.csproj.CopyComplete
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\obj\Debug\Web api.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\obj\Debug\Web api.pdb
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Web.Cors.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Web.Http.Cors.dll
+S:\zivi edelstein\Memory Game Project\Memory Game\Web api\bin\System.Web.Http.Cors.xml
