@@ -1,0 +1,269 @@
+C:\Users\seldat\Desktop\MemoryName\MemoryName\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\MemoryName\MemoryName\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\MemoryName.dll.config
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\MemoryName.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\MemoryName.pdb
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\csc.exe
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\csc.exe.config
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\csc.rsp
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\csi.exe
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\csi.exe.config
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\csi.rsp
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.AppContext.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Console.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.IO.Compression.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Security.Claims.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Threading.Thread.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.ValueTuple.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\vbc.exe
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\vbc.exe.config
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\vbc.rsp
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\VBCSCompiler.exe
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\Newtonsoft.Json.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\System.Net.Http.Formatting.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\System.Web.Http.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\System.Web.Http.WebHost.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\Newtonsoft.Json.xml
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\System.Net.Http.Formatting.xml
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\System.Web.Http.xml
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\System.Web.Http.WebHost.xml
+C:\Users\seldat\Desktop\MemoryName\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seldat\Desktop\MemoryName\MemoryName\obj\Debug\MemoryGame.csproj.CopyComplete
+C:\Users\seldat\Desktop\MemoryName\MemoryName\obj\Debug\MemoryName.dll
+C:\Users\seldat\Desktop\MemoryName\MemoryName\obj\Debug\MemoryName.pdb
+S:\נחמה וובר\MemoryName\MemoryName\bin\MemoryName.dll.config
+S:\נחמה וובר\MemoryName\MemoryName\bin\MemoryName.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\MemoryName.pdb
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\csc.exe
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\csc.exe.config
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\csc.rsp
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\csi.exe
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\csi.exe.config
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\csi.rsp
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.AppContext.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Collections.Immutable.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Console.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Diagnostics.Process.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.IO.Compression.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.IO.FileSystem.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.IO.Pipes.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Reflection.Metadata.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Security.AccessControl.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Security.Claims.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Security.Principal.Windows.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Threading.Thread.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.ValueTuple.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Xml.XmlDocument.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Xml.XPath.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\vbc.exe
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\vbc.exe.config
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\vbc.rsp
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\VBCSCompiler.exe
+S:\נחמה וובר\MemoryName\MemoryName\bin\roslyn\VBCSCompiler.exe.config
+S:\נחמה וובר\MemoryName\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\Newtonsoft.Json.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\System.Net.Http.Formatting.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\System.Web.Http.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\System.Web.Http.WebHost.dll
+S:\נחמה וובר\MemoryName\MemoryName\bin\Newtonsoft.Json.xml
+S:\נחמה וובר\MemoryName\MemoryName\bin\System.Net.Http.Formatting.xml
+S:\נחמה וובר\MemoryName\MemoryName\bin\System.Web.Http.xml
+S:\נחמה וובר\MemoryName\MemoryName\bin\System.Web.Http.WebHost.xml
+S:\נחמה וובר\MemoryName\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\נחמה וובר\MemoryName\MemoryName\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+S:\נחמה וובר\MemoryName\MemoryName\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+S:\נחמה וובר\MemoryName\MemoryName\obj\Debug\MemoryGame.csproj.CopyComplete
+S:\נחמה וובר\MemoryName\MemoryName\obj\Debug\MemoryName.dll
+S:\נחמה וובר\MemoryName\MemoryName\obj\Debug\MemoryName.pdb
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\MemoryName.dll.config
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\MemoryName.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\MemoryName.pdb
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\csc.exe
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\csc.exe.config
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\csc.rsp
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\csi.exe
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\csi.exe.config
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\csi.rsp
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.AppContext.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Console.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.IO.Compression.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Claims.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Threading.Thread.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.ValueTuple.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\vbc.exe
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\vbc.exe.config
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\vbc.rsp
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\VBCSCompiler.exe
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\Newtonsoft.Json.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Net.Http.Formatting.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Web.Cors.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Web.Http.Cors.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Web.Http.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Web.Http.WebHost.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Net.Http.Formatting.xml
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Web.Http.xml
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Web.Http.Cors.xml
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\Newtonsoft.Json.xml
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\System.Web.Http.WebHost.xml
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\obj\Debug\MemoryGame.csproj.CopyComplete
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\obj\Debug\MemoryName.dll
+C:\Users\seldat\Desktop\Day 02 - 16.09.2018\MemoryGameCors\MemoryName\obj\Debug\MemoryName.pdb
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\MemoryName.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\MemoryName.pdb
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\csc.exe
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\csc.exe.config
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\csc.rsp
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\csi.exe
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\csi.exe.config
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\csi.rsp
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.AppContext.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Collections.Immutable.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Console.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Diagnostics.Process.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.IO.Compression.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.IO.FileSystem.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.IO.Pipes.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Reflection.Metadata.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Security.AccessControl.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Claims.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Security.Principal.Windows.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Threading.Thread.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.ValueTuple.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.XPath.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\vbc.exe
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\vbc.exe.config
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\vbc.rsp
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\VBCSCompiler.exe
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\roslyn\VBCSCompiler.exe.config
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\Newtonsoft.Json.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Net.Http.Formatting.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Web.Cors.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Web.Http.Cors.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Web.Http.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Web.Http.WebHost.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Net.Http.Formatting.xml
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Web.Http.xml
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Web.Http.Cors.xml
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\Newtonsoft.Json.xml
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\System.Web.Http.WebHost.xml
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\obj\Debug\MemoryGame.csproj.CopyComplete
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\obj\Debug\MemoryName.dll
+S:\Tamar\Tamar & Racheli\MemoryGameCors\MemoryName\obj\Debug\MemoryName.pdb
