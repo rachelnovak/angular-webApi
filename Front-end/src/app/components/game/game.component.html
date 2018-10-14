@@ -5,15 +5,15 @@
         <p>your name: {{currentUser.UserName}} </p>
         <p> your partner: {{currentPartner.UserName}}</p>
         <p>currect player now {{PlayerNow}}</p>
-        <p>your score {{currentUser.Score}}</p>
-        <p>partner score {{currentPartner.Score}}</p>
+        <p>your points {{currentUser.counterUser1}}</p>
+        <p>partner points {{currentPartner.counterUser2}}</p>
     
         <section class="gameboard">
             <ul>
                 <li *ngFor="let card of listRandomCardsFix;let i=index">
                     <button [disabled]="currentUser.UserName!=PlayerNow || card.value!=null" (click)="clicked(card)" data-value={{i}}>
                         <p *ngIf="card.value==null">?</p>
-                        <p *ngIf="card.value!=null"> {{card.key}}</p>
+                        <p *ngIf="card.value!=null" ng-class="{background-color:blue}"> {{card.key}}</p>
                     </button>
                 </li>
             </ul>

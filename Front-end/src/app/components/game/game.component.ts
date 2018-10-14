@@ -8,6 +8,7 @@ import { MemoryGameService } from '../../shared/services/memory-game-service.ser
   templateUrl: './game.component.html',
   styleUrls: ['./game.component.css']
 })
+
 export class GameComponent implements OnInit {
 
   //-----------------PROPERTIES--------------------
@@ -22,6 +23,9 @@ export class GameComponent implements OnInit {
   isEnd: boolean = false;
   listRandomCardsFromServer: Array<string> = new Array<string>();
   listRandomCardsFix: Array<any> = new Array<any>();
+  counterUser1: number = 0;
+  counterUser2: number = 0;
+  winner: string;
 
   //----------------CONSTRACTOR-------------------
 
@@ -36,37 +40,53 @@ export class GameComponent implements OnInit {
     this.PlayerNow = this.gameService.currectTurnUser;
     var interval = setInterval(() => {
       this.gameService.getListOfCards(this.currentUser).subscribe(
-        data => {
-          this.res = data;
+        result => {
+          this.res = result;
           this.res.CardArray = Object.keys(this.res.CardArray).map(key => ({ key: key, value: this.res.CardArray[key] }));
-          //update score and partner
+
+          //update partner
           this.currentUser = this.userService.currentUser;
           this.currentPartner = this.userService.partnerUser;
-          this.PlayerNow = data["CurrentTurn"];
+          this.PlayerNow = result["CurrentTurn"];
           this.listRandomCardsFromServer = this.res.CardArray;
+
           //update values in the list that fix
-          for (let g in this.listRandomCardsFix) {
-            let card = this.listRandomCardsFromServer.filter(p => p["key"] == this.listRandomCardsFix[g]["key"]);
-            this.listRandomCardsFix[g]["value"] = card[0]["value"];
+          for (let index in this.listRandomCardsFix) {
+            let card = this.listRandomCardsFromServer.filter(p => p["key"] == this.listRandomCardsFix[index]["key"]);
+            this.listRandomCardsFix[index]["value"] = card[0]["value"];
           }
 
-          let i;
-          for (i of this.listRandomCardsFromServer) {
-            if (!i["value"])
+          //counter points to each player
+          this.listRandomCardsFix.forEach(p => p["value"] == this.currentUser.UserName ? this.counterUser1++ : this.counterUser2++);
+
+          let index;
+          for (index of this.listRandomCardsFromServer) {
+            if (!index["value"])
               break;
           }
-          //if there is winner stop game
-          if (i["value"]) {
-            //untill the score will update from service
+
+          //if there is winner - stop game
+          if (index["value"]) {
+            //setTimeout untill the score will update from service
             setTimeout(() => {
-              var winner = this.currentUser.Score > this.currentPartner.Score ? this.currentUser.UserName : this.currentPartner.UserName;
-              alert("the winner is  " + winner);
+              let sum = 0;
+              let winner;
+              for (let index in this.listRandomCardsFix)
+                if (this.listRandomCardsFix[index].value == this.currentUser.UserName)
+                  sum++;
+              if (sum > this.listRandomCardsFix.length / 2)
+                this.winner = this.currentUser.UserName;
+              else
+                this.winner = this.currentPartner.UserName;
+              alert("The winner is  " + winner);
               clearInterval(interval);
             }, 2000);
           }
-        }, err => {  }
+        }, err => { }
       );
     }, 5000);
+
+    //start new game
     setTimeout(() => {
       this.randomCards();
     }, 6000)
@@ -79,11 +99,12 @@ export class GameComponent implements OnInit {
    * duplicate the cards and mix them
    */
   randomCards() {
-    this.listRandomCardsFromServer = [...this.listRandomCardsFromServer.concat(this.listRandomCardsFromServer)];//twice
-    var i = 0;
+    //duplicate the cards
+    this.listRandomCardsFromServer = [...this.listRandomCardsFromServer.concat(this.listRandomCardsFromServer)];
+    var index = 0;
     while (this.listRandomCardsFromServer.length > 0) {
       this.rand = Math.floor(Math.random() * this.listRandomCardsFromServer.length);
-      this.listRandomCardsFix[i++] = this.listRandomCardsFromServer[this.rand];
+      this.listRandomCardsFix[index++] = this.listRandomCardsFromServer[this.rand];
       this.listRandomCardsFromServer.splice(this.rand, 1);
     }
   }
@@ -93,35 +114,33 @@ export class GameComponent implements OnInit {
  * @param card the choosen card
  */
   clicked(card) {
-    card.value = "somethingToShow"
-
     this.isClicked++;
     if (this.isClicked == 1)
       this.listChosenCards[0] = card.key;
     if (this.isClicked == 2) {
       this.listChosenCards[1] = card.key;
       this.gameService.checkCard(this.listChosenCards).subscribe(res => {
-        if (!res["end"])//not win yet
-        {
+        //not win yet
+        if (!res["end"]) {
           if (this.listChosenCards[1] == this.listChosenCards[0])
-            alert("wonderfull");
+            alert("well");
           this.PlayerNow = res["player"];
         }
-        else this.isEnd = true;
+        //win-end the game
+        else
+          this.isEnd = true;
         this.gameService.getListOfCards(this.currentUser).subscribe(
-          data => {
-            this.res = data;
+          res => {
+            this.res = res;
             this.res.CardArray = Object.keys(this.res.CardArray).map(key => ({ key: key, value: this.res.CardArray[key] }));
-            this.PlayerNow = data["CurrentTurn"];
+            this.PlayerNow = res["CurrentTurn"];
             this.listRandomCardsFromServer = this.res.CardArray;
-
-          }, err => {
-          }
+          }, err => { }
         );
       }, err => {
-
         alert("NOT OK");
       });
+
       this.isClicked = 0;
     }
 
