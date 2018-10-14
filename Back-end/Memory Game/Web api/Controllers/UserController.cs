@@ -11,7 +11,6 @@ namespace Web_api.Controllers
     public class UserController : ApiController
     {
 
-
         [HttpPost]
         [Route("SignIn")]
         public HttpResponseMessage SignIn([FromBody]User user)
@@ -28,8 +27,6 @@ namespace Web_api.Controllers
             else
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, new Exception());
         }
-
-
 
         [HttpGet]
         [Route("GetList/{userName}")]
@@ -58,6 +55,7 @@ namespace Web_api.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, user);
 
         }
+
         [HttpPut]
         [Route("CreateGame/{partnerUserName}")]
         public HttpResponseMessage CreateGame([FromUri] string partnerUserName,[FromBody] User user)

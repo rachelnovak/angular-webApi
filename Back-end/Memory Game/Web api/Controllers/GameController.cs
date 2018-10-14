@@ -20,8 +20,6 @@ namespace Web_api.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, currentGame);
         }
 
-
-
         [HttpPut]
         [Route("UpdateGame/{userName}/{card2}")]
         public bool UpdateGame(string userName, [FromBody]string card1, string card2)
@@ -31,7 +29,8 @@ namespace Web_api.Controllers
 
             bool isGameOver = true;
             lock (currentGame)
-            {  currentGame.CurrentTurn = currentGame.Player1.UserName == userName ? currentGame.Player2.UserName : currentGame.Player1.UserName;
+            {
+                currentGame.CurrentTurn = currentGame.Player1.UserName == userName ? currentGame.Player2.UserName : currentGame.Player1.UserName;
                 if (card1 == card2)
                 {
 
@@ -40,7 +39,7 @@ namespace Web_api.Controllers
                     {
                         if (card.Value == null)
                         {
-                          
+
                             isGameOver = false;
                         }
                     }
@@ -61,13 +60,14 @@ namespace Web_api.Controllers
                         }
 
                     }
-  return true;
+                    return true;
                 }
             }
-        return false;
+            return false;
 
 
         }
+
         private Game getCurrentGame(string userName)
         {
 
