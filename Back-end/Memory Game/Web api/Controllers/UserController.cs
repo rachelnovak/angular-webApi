@@ -16,7 +16,7 @@ namespace Web_api.Controllers
         [Route("SignIn")]
         public HttpResponseMessage SignIn([FromBody]User user)
         {
-            if (IsValidUser(user))
+            if (ModelState.IsValid&& Db.UserList.Find(p => p.UserName == user.UserName)==null)
             {
                 lock (Db.UserList)
                 {
@@ -82,19 +82,6 @@ namespace Web_api.Controllers
                 }
 
             }
-        }
-        private bool IsValidUser(User user)
-        {
-            User userExists;
-            lock (Db.UserList)
-            {
-                userExists = Db.UserList.Find(p => p.UserName == user.UserName);
-            }
-
-            if (user.UserName.Length < 2 || user.UserName.Length > 10 || user.UserName == null || user.Age < 18 || user.Age > 120 || user.Age == 0 || userExists != null)
-                return false;
-            return true;
-
         }
 
         private Dictionary<string, string> InitCardArray()
